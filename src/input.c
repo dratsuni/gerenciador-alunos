@@ -1,5 +1,5 @@
-#include "input.h"
-#include "new_string.h"
+#include "../include/input.h"
+#include "../include/new_string.h"
 #include <stddef.h>
 #include <limits.h>
 #include <stdint.h>

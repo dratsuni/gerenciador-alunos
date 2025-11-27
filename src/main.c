@@ -1,6 +1,5 @@
-#include "new_string.h"
-#include "aluno.h"
-#include "input.h"
+#include "../include/aluno.h"
+#include "../include/input.h"
 #include <stdio.h>
 
 

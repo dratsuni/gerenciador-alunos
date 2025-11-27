@@ -1,9 +1,9 @@
 #include <assert.h>
 #include <stdio.h>
 #include <string.h>
-#include "aluno.h"
-#include "input.h"
-#include "new_string.h"
+#include "../include/aluno.h"
+#include "../include/input.h"
+#include "../include/new_string.h"
 #define MATRICULA_JA_EXISTE 1
 #define NOME_DUPLICADO 2
 #define ALUNO_NAO_EXISTE 0
